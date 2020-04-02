@@ -11,3 +11,6 @@ to run -
 3- run npm start for both client and server side 
 
 
+![alt text](https://github.com/veeralsharma/chatRoom/blob/master/Capture.PNG)
+
+![alt text](https://github.com/veeralsharma/chatRoom/blob/master/2.PNG)
